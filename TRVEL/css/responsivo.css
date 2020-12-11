@@ -1,0 +1,116 @@
+/* Estilo para Tablets*/
+@media only screen and (min-width: 788px) and (max-width: 979px){
+
+	/*Qualidade Home*/
+	.qualidade:after{
+		right: 66px;
+	}
+
+	.qualidade_lista li{
+		padding: 0 10px;
+	}
+
+/*Footer*/
+.footer-redes ul li img{
+	width: 42px;
+	height: 42px;
+}
+
+}
+
+
+
+/* Estilo para Smartphone*/
+@media only screen and (max-width: 787px){
+
+/*Header*/
+	.header{
+		position: relative;
+		padding-bottom: 0;
+	}
+
+	.header img{
+		margin: 0 auto 10px auto;
+	}
+
+	.header_menu{
+		text-align: center;
+	}
+
+
+	.header_menu ul li{
+		margin: 5px;
+	}
+
+	.header_menu ul li a{
+		border: 4px solid #fff;
+		width: 200px;
+		display: block;
+		float: left;
+		}
+
+	.header_menu ul li a:hover{
+			border-color: #000;		
+			}
+
+	.header_menu ul li a.menu_ativo{
+				color: #000;
+				border-color: #000;
+			}
+
+/*Introdução*/
+
+.introducao{
+	margin-top: 0px;
+	padding-top: 40px;
+	background: url("../img/logos/intro-responsivo.jpg") no-repeat center;
+	background-size: cover;
+}
+
+/* Introdução Interna*/
+.introducao-interna{
+  margin-top: 0px;
+}
+
+.introducao-interna h1{
+  font-size: 28px;
+}
+
+/*Call*/
+
+.call{
+  padding-top: 15px;
+}
+
+/*Qualidade home*/
+
+.qualidade_lista{
+	padding-top: 20px;
+}
+.qualidade:after{
+	display: none;
+}
+
+.introducao h1{
+  font-size: 36px;
+}
+/*Sobre*/
+.missao-sobre p{
+	padding-right: 0px;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.missao-sobre ul li{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+/*Contato*/
+
+.contato_form{
+	padding-right: 0px;
+	margin-bottom: 40px;
+}
+}
+

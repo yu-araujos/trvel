@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.984" height="70.804" viewBox="0 0 194.984 70.804">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="194.984" height="70.804" transform="translate(589.722 2045.787)" fill="#a9aeb3"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-589.722 -2045.787)" clip-path="url(#clip-path)">
+    <g id="trvel" transform="translate(590.025 2046.019)">
+      <g id="Path_5" data-name="Path 5">
+        <path id="Path_4" data-name="Path 4" d="M0,0H194.681V70.793H0Z" fill="none"/>
+        <path id="Path_5-2" data-name="Path 5" d="M5.309,5.309V65.484H189.372V5.309H5.309M0,0H194.681V70.793H0Z" fill="#55559d"/>
+      </g>
+      <text id="TRVEL-2" data-name="TRVEL" transform="translate(35.841 48.661)" fill="#55559d" font-size="38" font-family="Georgia"><tspan x="0" y="0">TRVEL</tspan></text>
+    </g>
+  </g>
+</svg>
